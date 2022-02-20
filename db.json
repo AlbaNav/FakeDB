@@ -1,0 +1,60 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Dream",
+      "alias": "Morpheus",
+      "family": "The Endless",
+      "description": "Although he is ultimately a heroic character, Dream is sometimes slow to understand humor, occasionally insensitive, often self-obsessed, and very slow to forgive a slight. He has a long history of failed amours, and is both shown and implied to have reacted harshly to the women therein.",
+      "image": "https://res.cloudinary.com/dua6dm8ik/image/upload/v1642886475/The%20Endless/endlessDream_wruwtn.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Death",
+      "alias": "Teleute",
+      "family": "The Endless",
+      "description": "Death is an immortal being of virtual omnipotence, omniscience and omnipresence. She is not a god of death or agent of it, but Death itself: the end of life. As for the end of her role, Death has said: ‘When the last living thing dies, my job will be finished. I'll put the chairs on the tables, turn out the lights, and lock the universe behind me when I leave’",
+      "image":" https://res.cloudinary.com/dua6dm8ik/image/upload/v1642966026/The%20Endless/deathfromsandman_zzatwn.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Destiny",
+      "alias": "Kismet",
+      "family": "The Endless",
+      "description": "Destiny seems the most possessed by his function and responsibilities of any of the Endless. He rarely demonstrates much personality. His sigil is his book. His speech appears as a regular word balloon with letters in italics. In his garden are paths souls walk along as they fulfill their lives.",
+      "image": "https://res.cloudinary.com/dua6dm8ik/image/upload/v1642886479/The%20Endless/endlessDestiny_l9kou7.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Destruction",
+      "alias": "The Prodigal",
+      "family": "The Endless",
+      "description": "A very large, robust man with red hair, who sometimes appears bearded and sometimes shaven. Destruction abandoned his duties as one of the Endless three hundred years ago, causing much conflict between him and his siblings. He did so out of a refusal to be responsible for the scientific destruction following the enlightenment. He has a passion for creative and constructive endeavors, but little talent. His sigil is a sword. His text is normal, but is in a balloon with a bold outline.",
+      "image": "https://res.cloudinary.com/dua6dm8ik/image/upload/v1642886477/The%20Endless/endlessDestruction_vae77s.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Desire",
+      "alias": "Sister-Brother",
+      "family": "The Endless",
+      "description": "Desire is androgynous, capable of appearing as a man, a woman, neither, or possibly both . Desire has a cruel streak and a long-standing rivalry with Dream, their relationship deteriorating eons ago after Desire caused Dream to fall in love with a woman who ultimately left him for another.",
+      "image": "https://res.cloudinary.com/dua6dm8ik/image/upload/v1642886483/The%20Endless/endlessDesire_i0wyvl.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Dispair",
+      "alias": "none",
+      "family": "The Endless",
+      "description": "A short, obese woman with greyish skin and irregularly-shaped teeth. She is always naked. Despair has a cold, quietly intelligent manner. She has a habit of carving her flesh with a hooked ring that she wears, which is also her sigil. ",
+      "image": "https://res.cloudinary.com/dua6dm8ik/image/upload/v1642886482/The%20Endless/endlessDespair_tm02ip.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Delirium",
+      "alias": "Delight",
+      "family": "The Endless",
+      "description": "The youngest of the Endless, Delirium appears as a young girl whose form changes the most frequently of any of the Endless, based on the random fluctuations of her temperament. She has wild multicolored hair and eccentric, mismatched clothes. ",
+      "image": "https://res.cloudinary.com/dua6dm8ik/image/upload/v1642886485/The%20Endless/endlessDelirium_fy03i2.jpg"
+    }
+  ]
+}
